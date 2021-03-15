@@ -1,0 +1,26 @@
+.language {
+  color: aquamarine;
+  font-family: cursive;
+  font-size: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid plum;
+  width: 50%;
+}
+
+#title {
+  color: black;
+  position: sticky;
+  top: 0;
+  font-size: 150%;
+  font-family: cursive;
+}
+
+#image {
+  height: 2000px;
+  width: 500px;
+  float: left;
+}
